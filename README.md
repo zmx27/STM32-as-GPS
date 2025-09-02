@@ -1,4 +1,4 @@
-# STM32-as-GPS
+# STM32 Project
 Interfacing a GPS module with a STM32F401RE Nucleo Board to find the location coordinates and display them on a LCD display
 
 # Nucleo F401RE GPS Tracker with LCD
@@ -59,8 +59,6 @@ This project requires two libraries, which can be installed directly from the Ar
     * Go to `Sketch` > `Include Library` > `Manage Libraries...`
     * Search for "LiquidCrystal I2C" and install the library by Frank de Brabander.
 
-***
-
 ## 🚀 Code and Upload
 
 The provided code reads data from the GPS module, checks for a valid satellite fix, and then displays the latitude and longitude on the LCD screen.
@@ -72,3 +70,10 @@ The provided code reads data from the GPS module, checks for a valid satellite f
 2. "Waiting..." Loop: This is the expected behavior if the GPS module has not acquired a satellite fix.
 
 3. No Satellite Fix: Place the GPS module outdoors with a clear view of the sky. The initial fix can take 15-30 minutes or longer in urban areas.
+
+***
+
+## 📞 Contact
+
+For questions or suggestions, feel free to reach out via email:
+📧 zhimingx27@gmail.com
