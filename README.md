@@ -1,5 +1,7 @@
 # STM32 Project
-Interfacing a GPS module with a STM32F401RE Nucleo Board to find the location coordinates and display them on a LCD display
+Interfacing a GPS module with a STM32F401RE Nucleo Board to find the location coordinates and display them on a LCD display.
+<img width="1492" height="896" alt="image" src="https://github.com/user-attachments/assets/55a7534f-6fb8-44dc-8208-31119bf6af13" />
+
 
 # Nucleo F401RE GPS Tracker with LCD
 
