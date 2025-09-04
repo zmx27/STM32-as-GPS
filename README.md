@@ -75,6 +75,10 @@ The provided code reads data from the GPS module, checks for a valid satellite f
 
 ***
 
+## Acknowledgement
+
+Adapted from the tutorial by Circuit Digest on a similar project [here](https://circuitdigest.com/microcontroller-projects/interfacing-stm32f103c8-with-gps-module-to-track-location-coordinates). Credit goes to them!
+
 ## 📞 Contact
 
 For questions or suggestions, feel free to reach out via email:
