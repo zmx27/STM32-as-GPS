@@ -17,7 +17,7 @@ void setup() {
   lcd.backlight();
 
   // Start serial communication with the GPS module at 9600 baudrate.
-  // The Nucleo's PA2 and PA3 pins correspond to Serial2.
+  // The Nucleo's PA9 and PA10 pins correspond to Serial1.
   Serial1.begin(9600);
 
   Serial.begin(9600);
