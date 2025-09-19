@@ -74,7 +74,7 @@ static void GPSDelay(unsigned long ms)
   unsigned long start = millis();
   do
   {
-    // The GPS module is connected to Serial2
+    // The GPS module is connected to Serial1
     while (Serial1.available())
       gps.encode(Serial1.read());
   } while (millis() - start < ms);
